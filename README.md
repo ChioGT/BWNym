@@ -5,6 +5,7 @@
 # BWNym
 Proyect Shipyard Visionary Track for Nym Tech.
 
+<a name="top"></a>
 ## Table of contents
 - [📘Shipyard Squad Information ](#SquadEn)
 - [🔨Tools](#tools)
@@ -16,6 +17,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [📖Books](#books)
 - [🗺️Communities](#communities)
 
+<a name="subir"></a>
 ## Tabla de contenidos
 - [📘Informacion de Shipyard Squad](#SquadEs)
 - [🔨Herramientas](#herramientas)
@@ -97,30 +99,47 @@ Email: bwnym@proton.me
 Presentation doc: 
 
 https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoUu3I/edit?usp=sharing
+[Top](#top)
 
 <a name="tools"></a>
 ### 🔨Tools
 
+[Top](#top)
+
 <a name="sdks"></a>
 ### 🚀SDKs
+
+[Top](#top)
 
 <a name="tutorials"></a>
 ### ℹ️Tutorials
 
+[Top](#top)
+
 <a name="private"></a>
 ### 🔒Private products
+
+[Top](#top)
 
 <a name="hackEn"></a>
 ### 🏁Hackatones
 
+[Top](#top)
+
 <a name="events"></a>
 ### 🍻Events
+
+[Top](#top)
 
 <a name="books"></a>
 ### 📖Books]
 
+[Top](#top)
+
 <a name="communities"></a>
 ### 🗺️Communities
+
+[Top](#top)
 
 <a name="SquadEs"></a>
 ### 📘Informacion del Shipyard Squad 
@@ -192,31 +211,37 @@ Documentacion de la presentacion:
 
 https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoUu3I/edit?usp=sharing
 
+[Subir](#subir)
+
 <a name="herramientas"></a>
 ### 🔨Herramientas
 
+[Subir](#subir)
+
 <a name="sdkses"></a>
 ### 🚀SDKs
+[Subir](#subir)
 
 <a name="manuales"></a>
 ### ℹ️Manuales
+[Subir](#subir)
 
 <a name="pricidad"></a>
 ### 🔒Productos con Privacidad
+[Subir](#subir)
 
 <a name="hackEs"></a>
 ### 🏁Hackatones
+[Subir](#subir)
 
 <a name="eventos"></a>
 ### 🍻Eventos
+[Subir](#subir)
 
 <a name="libros"></a>
 ### 📖Libros]
+[Subir](#subir)
 
 <a name="comunidades"></a>
 ### 🗺️Communidades
-
-
-
-
-
+[Subir](#subir)
