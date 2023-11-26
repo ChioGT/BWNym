@@ -15,6 +15,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [🏁Hackatones](#hackEn)
 - [🍻Events](#events)
 - [📖Books](#books)
+- [🌟Talents/Inspiration](#talents)
 - [🗺️Communities](#communities)
 
 <a name="subir"></a>
@@ -27,6 +28,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [🏁Hackatones](#hackes)
 - [🍻Eventos](#eventos)
 - [📖Libros](#libros)
+- [🌟Talentos/Inspiracion](#talentos)
 - [🗺️Comunidades](#comunidades)
   
 <a name="SquadEn"></a>
@@ -136,6 +138,11 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 [Top](#top)
 
+<a name="talents"></a>
+### 🌟Talents/Inspiration
+
+[Top](#top)
+
 <a name="communities"></a>
 ### 🗺️Communities
 
@@ -240,6 +247,10 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 <a name="libros"></a>
 ### 📖Libros]
+[Subir](#subir)
+
+<a name="talentos"></a>
+### 🌟Talentos/Inspiracion
 [Subir](#subir)
 
 <a name="comunidades"></a>
