@@ -9,23 +9,23 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [📘Shipyard Squad Information ](#SquadEn)
 - [🔨Tools](#tools)
 - [🚀SDKs](#sdks)
-- [ℹ️Tutorials](#ℹ%EF%B8%8Ftutorials)
-- [🔒Private products](#%EF%B8%8Fgrants)
-- [🏁Hackatones](#%EF%B8%8Fnodes)
-- [🍻Events](#%EF%B8%8Fnodes)
-- [📖Books](#%EF%B8%8Fnodes)
-- [🗺️Communities](#%EF%B8%8Fcommunities)
+- [ℹ️Tutorials](#tutorials)
+- [🔒Private products](#private)
+- [🏁Hackatones](#hackEn)
+- [🍻Events](#events)
+- [📖Books](#books)
+- [🗺️Communities](#communities)
 
 ## Tabla de contenidos
 - [📘Informacion de Shipyard Squad](#SquadEs)
-- [🔨Herramientas](#tools)
-- [🚀SDKs](#sdks)
-- [ℹ️Manuales](#ℹ%EF%B8%8Ftutorials)
-- [🔒Productos con Privacidad](#%EF%B8%8Fgrants)
-- [🏁Hackatones](#%EF%B8%8Fnodes)
-- [🍻Eventos](#%EF%B8%8Fnodes)
-- [📖Libros](#%EF%B8%8Fnodes)
-- [🗺️Comunidades](#%EF%B8%8Fcommunities)
+- [🔨Herramientas](#herramientas)
+- [🚀SDKs](#sdkses)
+- [ℹ️Manuales](#manuales)
+- [🔒Productos con Privacidad](#privacidad)
+- [🏁Hackatones](#hackes)
+- [🍻Eventos](#eventos)
+- [📖Libros](#libros)
+- [🗺️Comunidades](#comunidades)
   
 <a name="SquadEn"></a>
 ### 📘Shipyard Squad Information 
@@ -98,8 +98,32 @@ Presentation doc:
 
 https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoUu3I/edit?usp=sharing
 
+<a name="tools"></a>
+### 🔨Tools
+
+<a name="sdks"></a>
+### 🚀SDKs
+
+<a name="tutorials"></a>
+### ℹ️Tutorials
+
+<a name="private"></a>
+### 🔒Private products
+
+<a name="hackEn"></a>
+### 🏁Hackatones
+
+<a name="events"></a>
+### 🍻Events
+
+<a name="books"></a>
+### 📖Books]
+
+<a name="communities"></a>
+### 🗺️Communities
+
 <a name="SquadEs"></a>
-### 📘Informacion del Shipyard Squad
+### 📘Informacion del Shipyard Squad 
 
 BWNym
 
@@ -168,6 +192,29 @@ Documentacion de la presentacion:
 
 https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoUu3I/edit?usp=sharing
 
+<a name="herramientas"></a>
+### 🔨Herramientas
+
+<a name="sdkses"></a>
+### 🚀SDKs
+
+<a name="manuales"></a>
+### ℹ️Manuales
+
+<a name="pricidad"></a>
+### 🔒Productos con Privacidad
+
+<a name="hackEs"></a>
+### 🏁Hackatones
+
+<a name="eventos"></a>
+### 🍻Eventos
+
+<a name="libros"></a>
+### 📖Libros]
+
+<a name="comunidades"></a>
+### 🗺️Communidades
 
 
 
