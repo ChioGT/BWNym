@@ -1,3 +1,7 @@
+<p align="center">
+ <img width="40%" align="center" src="BWNym_logo.png">
+</p>
+
 # BWNym
 Proyect Shipyard Visionary Track for Nym Tech.   
 
