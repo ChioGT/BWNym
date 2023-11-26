@@ -17,7 +17,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [🗺️Communities](#%EF%B8%8Fcommunities)
 
 ## Tabla de contenidos
-- [📘Informacion de Shipyard Squad](#SquadEn)
+- [📘Informacion de Shipyard Squad](#SquadEs)
 - [🔨Herramientas](#tools)
 - [🚀SDKs](#sdks)
 - [ℹ️Manuales](#ℹ%EF%B8%8Ftutorials)
@@ -27,6 +27,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [📖Libros](#%EF%B8%8Fnodes)
 - [🗺️Comunidades](#%EF%B8%8Fcommunities)
   
+<a name="SquadEn"></a>
 ### 📘Shipyard Squad Information 
 
 BWNym
@@ -97,6 +98,7 @@ Presentation doc:
 
 https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoUu3I/edit?usp=sharing
 
+<a name="SquadEs"></a>
 ### 📘Informacion del Shipyard Squad
 
 BWNym
