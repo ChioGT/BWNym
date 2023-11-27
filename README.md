@@ -251,6 +251,7 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 <a name="talentos"></a>
 ### 🌟Talentos/Inspiracion
+-[Buscando inspiracion para usar NYM](https://medium.com/@chiogonzalezt/buscando-inspiración-para-usar-nym-bce2527d95ef)
 [Subir](#subir)
 
 <a name="comunidades"></a>
