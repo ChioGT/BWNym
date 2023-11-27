@@ -105,7 +105,7 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 <a name="tools"></a>
 ### 🔨Tools
-
+ -[Nym Connect with Telegram] (https://nymtech.net/developers/tutorials/telegram.html) 
 [Top](#top)
 
 <a name="sdks"></a>
