@@ -14,6 +14,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [🔒Private products](#private)
 - [🏁Hackatones](#hackEn)
 - [🍻Events](#events)
+- [📰News](#news)
 - [📖Books](#books)
 - [🌟Talents/Inspiration](#talents)
 - [🗺️Communities](#communities)
@@ -27,6 +28,7 @@ Proyect Shipyard Visionary Track for Nym Tech.
 - [🔒Productos con Privacidad](#privacidad)
 - [🏁Hackatones](#hackes)
 - [🍻Eventos](#eventos)
+- [📰Noticias](#noticias)
 - [📖Libros](#libros)
 - [🌟Talentos/Inspiracion](#talentos)
 - [🗺️Comunidades](#comunidades)
@@ -134,8 +136,13 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 [Top](#top)
 
+<a name="news"></a>
+### 📰News
+
+[Top](#top)
+
 <a name="books"></a>
-### 📖Books]
+### 📖Books
 
 [Top](#top)
 
@@ -246,6 +253,12 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 <a name="eventos"></a>
 ### 🍻Eventos
 [Subir](#subir)
+
+<a name="noticias"></a>
+### 📰Noticias
+
+[Subir](#subir)
+
 
 <a name="libros"></a>
 ### 📖Libros]
