@@ -139,6 +139,12 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 <a name="news"></a>
 ### 📰News
 - .[The Nym node Delegation Programme is now open](https://blog.nymtech.net/nym-node-delegation-programme-is-now-open-c371c74610c5)
+- .[NymVPN — an invitation for privacy experts and enthusiasts](https://blog.nymtech.net/nymvpn-an-invitation-for-privacy-experts-and-enthusiasts-63644139d09d)
+- .[Firo zk-proof crypto wallet is now integrated in NymConnect](https://blog.nymtech.net/71000a14c815)
+- .[It’s just become insanely easy to develop Nym-powered webapps!](https://blog.nymtech.net/8815cfce749a)
+- .[Nym is thrilled to announce a groundbreaking partnership with NEAR Protocol !](https://blog.nymtech.net/844966df7f0b)
+- .[Nym mixnet and WalletConnect integration — the first steps](https://blog.nymtech.net/f234a35d8aa6)
+
 [Top](#top)
 
 <a name="books"></a>
@@ -257,8 +263,13 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 <a name="noticias"></a>
 ### 📰Noticias
 - .[¡El Programa de Delegación de Nodos de Nym ha comenzado!](https://medium.com/@nymspanish/el-programa-de-delegaci%C3%B3n-de-nodos-de-nym-ha-comenzado-6ab6fde0e5e1)
-[Subir](#subir)
+- [NymVPN: una invitación para expertos y entusiastas de la privacidad](https://medium.com/@nymspanish/nymvpn-una-invitaci%C3%B3n-para-expertos-y-entusiastas-de-la-privacidad-acf90c289be2)
+- .[El monedero criptográfico a prueba de zk Firo ya está integrado en NymConnect](https://medium.com/@nymspanish/el-monedero-criptográfico-a-prueba-de-zk-firo-ya-está-integrado-en-nymconnect-3b32db26ac54)
+- [Ahora es muy fácil desarrollar aplicaciones web con Nym.](https://medium.com/@nymspanish/ahora-es-muy-fácil-desarrollar-aplicaciones-web-con-nym-0786e499bb37)
+- .[Nym se asocia con Near Foundation para ofrecer privacidad de Web3 a usuarios y validadores](https://medium.com/@nymspanish/comunicado-de-prensa-nym-se-asocia-con-near-foundation-para-ofrecer-privacidad-de-web3-a-usuarios-7a83c99eabed)
+- .[Integración de la Nym mixnet y WalletConnect — los primeros pasos](https://medium.com/@nymspanish/integración-de-la-nym-mixnet-y-walletconnect-primeros-pasos-37dd14bfcfa2)
 
+[Subir](#subir)
 
 <a name="libros"></a>
 ### 📖Libros]
