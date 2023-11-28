@@ -138,7 +138,7 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 <a name="news"></a>
 ### 📰News
-
+- .[The Nym node Delegation Programme is now open](https://blog.nymtech.net/nym-node-delegation-programme-is-now-open-c371c74610c5)
 [Top](#top)
 
 <a name="books"></a>
@@ -256,7 +256,7 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 <a name="noticias"></a>
 ### 📰Noticias
-
+- .[¡El Programa de Delegación de Nodos de Nym ha comenzado!](https://medium.com/@nymspanish/el-programa-de-delegaci%C3%B3n-de-nodos-de-nym-ha-comenzado-6ab6fde0e5e1)
 [Subir](#subir)
 
 
