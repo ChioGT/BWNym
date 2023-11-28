@@ -107,18 +107,20 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 
 <a name="tools"></a>
 ### 🔨Tools
--.[Nym Connect with Telegram](https://nymtech.net/developers/tutorials/telegram.html)
--.[Nym Connect with Monero](https://nymtech.net/developers/tutorials/monero.html)
--.[Nym Connect with Matrix](https://nymtech.net/developers/tutorials/matrix.html)
--.[Nym Connect with Electrum Wallet](https://nymtech.net/developers/tutorials/electrum.html)
--.[Nym Connect with Firo Wallet](https://nymtech.net/developers/tutorials/firo.html)
+
+- .[Nym Connect with Telegram](https://nymtech.net/developers/tutorials/telegram.html)
+- .[Nym Connect with Monero](https://nymtech.net/developers/tutorials/monero.html)
+- .[Nym Connect with Matrix](https://nymtech.net/developers/tutorials/matrix.html)
+- .[Nym Connect with Electrum Wallet](https://nymtech.net/developers/tutorials/electrum.html)
+- .[Nym Connect with Firo Wallet](https://nymtech.net/developers/tutorials/firo.html)
  
 [Top](#top)
 
 <a name="sdks"></a>
 ### 🚀SDKs
--.[Rust SDK](https://nymtech.net/docs/sdk/rust/rust.html)
--.[Typescript SDK](https://sdk.nymtech.net/)
+
+- .[Rust SDK](https://nymtech.net/docs/sdk/rust/rust.html)
+- .[Typescript SDK](https://sdk.nymtech.net/)
 
 [Top](#top)
 
