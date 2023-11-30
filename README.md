@@ -245,6 +245,7 @@ https://docs.google.com/presentation/d/1grvc1yB-gqIZY-ILgggZH4idIlvu_oShXtnTEDoU
 <a name="herramientas"></a>
 ### 🔨Herramientas
 - .[Nym Connect con Telegram](https://medium.com/@geloisbitmaster/manual-para-conectar-nymconnect-con-telegram-5b635b13c74a)
+- .[Nym Connect con Electrum](https://medium.com/@geloisbitmaster/manual-para-conectar-a-la-billetera-foro-electrum-e63591d2fa7)
 
 [Subir](#subir)
 
